@@ -11,3 +11,6 @@
 # Einheit2
 08.02.17
 * [Man darf section in article schachteln](http://w3c.github.io/html/sections.html#the-article-element)
+* [`flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/)
+* [I totally forgot about print style sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.is7zxlvg8)
+* [WDD-Hausübungspool](https://github.com/SAEwien/Uebungen)
