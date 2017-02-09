@@ -14,3 +14,9 @@
 * [`flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/)
 * [I totally forgot about print style sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.is7zxlvg8)
 * [WDD-Hausübungspool](https://github.com/SAEwien/Uebungen)
+
+# Einheit3
+13.02.17
+* [Responsive Images Done Right: A Guide To &lt;picture&gt; And srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
+* [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+
