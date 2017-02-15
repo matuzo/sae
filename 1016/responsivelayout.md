@@ -35,6 +35,13 @@
 * [image optim](https://imageoptim.com/)
 * [image alpha](https://pngmini.com/)
 * [Using WebP Images](https://css-tricks.com/using-webp-images/)
+* [Just use button -- A11ycasts #05](https://www.youtube.com/watch?v=CZGqnp06DnI)
+* [There Is No Document Outline Algorithm](http://adrianroselli.com/2016/08/there-is-no-document-outline-algorithm.html)
+* [Float Label Pattern](http://bradfrost.com/blog/post/float-label-pattern/)
+* [Dev Tips](https://umaar.com/dev-tips/)
+* [Positioning content off-screen](http://webaim.org/techniques/css/invisiblecontent/#absolutepositioning)
+* [Samuel L. Ipsum](http://slipsum.com/)
+* [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
 
 Übungen:  
 https://github.com/SAEwien/Uebungen/tree/master/htmlcss/003_blogpost_htmlstruktur
