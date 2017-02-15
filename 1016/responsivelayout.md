@@ -17,6 +17,27 @@
 
 # Einheit3
 13.02.17
-* [Responsive Images Done Right: A Guide To &lt;picture&gt; And srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 * [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+* [Below the fold](http://iampaddy.com/lifebelow600/)
+* [Jekyll](https://jekyllrb.com/)
+* [Brutalist Websites](http://brutalistwebsites.com/)
+* [Element collages](http://danielmall.com/articles/rif-element-collages/)
+* [Style tiles](http://styletil.es/)
+* [Screen siz.es](http://screensiz.es/)
+* [nth Master](http://nthmaster.com/)
+
+
+# Einheit4
+13.02.17
+
+* [Responsive Images Done Right: A Guide To &lt;picture&gt; And srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
+* [tiny png](https://tinypng.com/)
+* [image optim](https://imageoptim.com/)
+* [image alpha](https://pngmini.com/)
+* [Using WebP Images](https://css-tricks.com/using-webp-images/)
+
+Übungen:  
+https://github.com/SAEwien/Uebungen/tree/master/htmlcss/003_blogpost_htmlstruktur
+https://github.com/SAEwien/Uebungen/tree/master/htmlcss/032_layout_orf
+https://github.com/SAEwien/Uebungen/tree/master/htmlcss/025_mediaqueries
 
