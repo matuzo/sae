@@ -47,7 +47,7 @@
 16.02.17
 
 * [Get Started with Remote Debugging Android Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
-* [Setting up a Device for Development](https://developer.android.com/studio/run/device.html#setting-up)
+* [Setting up a Device for Development](https://developer.android.com/studio/run/device.html#setting-up)  
 Enable USB debugging in the device system settings, under Settings > Developer options.
 Note: On Android 4.2 and newer, Developer options is hidden by default. To make it available, go to Settings > About phone and tap Build number seven times. Return to the previous screen to find Developer options.
 * [Webdeveloper Toolbar](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
@@ -57,6 +57,8 @@ Note: On Android 4.2 and newer, Developer options is hidden by default. To make 
 * [A List Aprt](https://alistapart.com/)
 * [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 * [Android Studio](https://developer.android.com/studio/index.html)
+* [Duck Hunt CSS](http://codepen.io/vaielab/pen/yoKEF)
+* [Mark Robbins | Modern CSS and interactive email | CSS Day 2016](https://vimeo.com/181481382)
 
 Übungen:  
 https://github.com/SAEwien/Uebungen/tree/master/htmlcss/003_blogpost_htmlstruktur
